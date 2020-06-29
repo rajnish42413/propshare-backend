@@ -39,6 +39,20 @@ php artisan serve
 
 and visit [http://localhost:8000](http://localhost:8000) to see the application in action.
 
+## API Detail
+ 1. Login - post request
+   ```bash
+    http://127.0.0.1:8000/api/login
+   ```
+ 2. Register - post request
+   ```bash
+    http://127.0.0.1:8000/api/register
+   ```
+ 3. Media Gallery - get request
+   ```bash
+    http://127.0.0.1:8000/api/medai
+   ```
+   
 ## Built With
 
 * [Laravel](https://laravel.com) - The PHP Framework For Web Artisans
