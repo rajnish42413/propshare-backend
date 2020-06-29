@@ -1,11 +1,5 @@
 # Propshare PWA Backend
 
-## DataBase Design
-  ![alt text](https://res.cloudinary.com/dh7apsl5o/image/upload/v1571078665/Innoscripta-pizza-task_itf5dp.png)
-
-
-<hr>
-
 ## Getting Started
 
 Clone the project repository by running the command below if you use SSH
